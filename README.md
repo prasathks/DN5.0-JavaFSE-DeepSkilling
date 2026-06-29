@@ -2,12 +2,6 @@
 
 Welcome to my repository for the Cognizant Digital Nurture 5.0 Deep Skilling mandatory hands-on exercises!
 
-**Student Details:**
-- **Name:** Prasath K S
-- **Program:** Cognizant DN 5.0 Java FSE Angular Deep Skilling
-- **Batch:** 2027
-- **Main Project:** NexQ (Spring Boot 3, JWT, Redis, WebSocket, MySQL, Docker)
-
 ## Curriculum Progress
 
 ### Week 1 Exercises
