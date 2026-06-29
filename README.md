@@ -1,19 +1,19 @@
-# Cognizant Digital Nurture 5.0 - Java FSE Deep Skilling
+# DN 5.0 Java FSE Mandatory Hands-on
 
-Welcome to my repository for the Cognizant Digital Nurture 5.0 Deep Skilling mandatory hands-on exercises!
+This repo contains my hands-on practice for the Cognizant Digital Nurture 5.0 Deep Skilling program. Im currently in the Java Full Stack Engineering (FSE) track.
 
-## Curriculum Progress
+## My Progress
 
-### Week 1 Exercises
-**Module 1: Design Patterns and Principles**
-- ✅ Exercise 1: Implementing the Singleton Pattern
-- ✅ Exercise 2: Implementing the Factory Method Pattern
+### Week 1
+*Module 1: Design Patterns & Principles*
+- Ex 1: Singleton Pattern
+- Ex 2: Factory Method Pattern
 
-**Module 2: Data Structures and Algorithms**
-- ✅ Exercise 2: E-commerce Platform Search Function
-- ✅ Exercise 7: Financial Forecasting
+*Module 2: Data Structures and Algo*
+- Ex 2: E-commerce Search Function
+- Ex 7: Financial Forecasting
 
-Each exercise folder contains the Java source code along with a terminal output screenshot (`Output_Screenshot.png`) as proof of successful execution.
+(I have attached screenshots of the console output inside each folder to show that the code is working)
 
 ---
-*This repository is maintained as part of the mandatory hands-on requirements for the Cognizant DN 5.0 upskilling program.*
+*Will update this file as I complete the next weeks.*
