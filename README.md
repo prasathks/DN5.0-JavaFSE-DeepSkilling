@@ -16,6 +16,10 @@ This repository serves as a structured portfolio for the Cognizant Digital Nurtu
 * Built Financial Forecasting algorithms using recursion
 * Created PL/SQL stored procedures and triggers
 * Enforced TDD using JUnit & Mockito
+### 🔹 Week 2: Spring Ecosystem
+**Technologies:** Spring Core, Spring Data JPA, Hibernate, Maven
+* Managed dependencies via Constructor & Setter Injection (IoC)
+* Developed Data Access Layers with JPQL and Named Queries
 
 ---
 
