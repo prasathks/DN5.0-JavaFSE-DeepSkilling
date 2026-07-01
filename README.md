@@ -11,7 +11,12 @@ The repository is organized by weeks and modules covering the following topics:
     *   Module 2: Algorithms & Data Structures (Search, Financial Forecasting)
     *   Module 3: PL/SQL
     *   Module 4: Logging & Test-Driven Development (TDD with JUnit & Mockito)
+*   **Week 2**: 
+    *   Module 5: Spring Core & Maven (IoC, Dependency Injection)
+    *   Module 6: Spring Data JPA
 
 ## Technologies Used
 *   Java
 *   JUnit & Mockito
+*   Spring Boot / Spring Data JPA
+*   Maven

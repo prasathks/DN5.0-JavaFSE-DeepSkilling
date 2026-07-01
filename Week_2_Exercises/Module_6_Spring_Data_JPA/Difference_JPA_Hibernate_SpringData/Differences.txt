@@ -1,0 +1,8 @@
+JPA vs Hibernate vs Spring Data JPA - my notes
+
+JPA is just an interface/specification, no actual implementation.
+Hibernate is the real implementation of JPA - it does the actual SQL query work under the hood.
+Spring Data JPA sits on top of JPA/Hibernate, makes it easier by auto-generating the repository code.
+
+So basically: Spring Data JPA uses Hibernate which implements JPA.
+We just write the interface, Spring handles the rest at runtime.

@@ -1,0 +1,27 @@
+class Employee {
+    private String name;
+    private String department;
+
+    public Employee(String name) {
+        this.name = name;
+        System.out.println("Constructor Injection: Name set to " + name);
+    }
+
+    public void setDepartment(String department) {
+        this.department = department;
+        System.out.println("Setter Injection: Department set to " + department);
+    }
+    
+    public void showDetails() {
+        System.out.println("Employee: " + name + ", Dept: " + department);
+    }
+}
+
+public class InjectionTest {
+    public static void main(String[] args) {
+        
+        Employee emp = new Employee("Prasath K S"); 
+        emp.setDepartment("Java FSE"); 
+        emp.showDetails();
+    }
+}
