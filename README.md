@@ -29,5 +29,20 @@ This repo contains my hands-on practice for the Cognizant Digital Nurture 5.0 De
 
 (I have attached screenshots of the console output inside each folder to show that the code is working)
 
+### Week 2
+*Module 5: Spring Core and Maven*
+- Ex 1: Configuring a Basic Spring Application
+- Ex 5: Configuring the Spring IoC Container
+- Ex 2: Implementing Dependency Injection
+- Ex 7: Implementing Constructor and Setter Injection
+- Ex 4: Creating and Configuring a Maven Project
+- Ex 9: Creating a Spring Boot Application
+
+*Module 6: Spring Data JPA with Spring Boot, Hibernate*
+- Spring Data JPA - Quick Example
+- Difference between JPA, Hibernate and Spring Data JPA
+
+(I have attached screenshots of the console output inside each folder to show that the code is working)
+
 ---
 *Will update this file as I complete the next weeks.*
