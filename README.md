@@ -14,6 +14,9 @@ The repository is organized by weeks and modules covering the following topics:
 *   **Week 2**: 
     *   Module 5: Spring Core & Maven (IoC, Dependency Injection)
     *   Module 6: Spring Data JPA
+*   **Week 3**: 
+    *   Spring REST (Building RESTful APIs)
+    *   JWT Authentication
 
 ## Technologies Used
 *   Java
