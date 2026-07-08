@@ -20,6 +20,10 @@ This repository serves as a structured portfolio for the Cognizant Digital Nurtu
 **Technologies:** Spring Core, Spring Data JPA, Hibernate, Maven
 * Managed dependencies via Constructor & Setter Injection (IoC)
 * Developed Data Access Layers with JPQL and Named Queries
+### 🔹 Week 3: REST APIs & Security
+**Technologies:** Spring Web, Spring Security, JWT
+* Designed HATEOAS compliant REST APIs with Exception Handling
+* Secured application endpoints using stateless JSON Web Tokens
 
 ---
 
