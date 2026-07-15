@@ -24,6 +24,10 @@ This repository serves as a structured portfolio for the Cognizant Digital Nurtu
 **Technologies:** Spring Web, Spring Security, JWT
 * Designed HATEOAS compliant REST APIs with Exception Handling
 * Secured application endpoints using stateless JSON Web Tokens
+### 🔹 Week 4: Microservices
+**Technologies:** Eureka Server, API Gateway, OpenFeign
+* Built decoupled Employee and Department microservices
+* Established Service Discovery and API Routing
 
 ---
 
