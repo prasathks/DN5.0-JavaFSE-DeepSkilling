@@ -17,9 +17,13 @@ The repository is organized by weeks and modules covering the following topics:
 *   **Week 3**: 
     *   Spring REST (Building RESTful APIs)
     *   JWT Authentication
+*   **Week 4**: 
+    *   Module 7: Microservices (Eureka Server, API Gateway, Service Communication)
+    *   Module 8: Code Quality (SonarQube)
 
 ## Technologies Used
 *   Java
 *   JUnit & Mockito
 *   Spring Boot / Spring Data JPA
 *   Maven
+*   Microservices Architecture
