@@ -28,6 +28,11 @@ This repository serves as a structured portfolio for the Cognizant Digital Nurtu
 **Technologies:** Eureka Server, API Gateway, OpenFeign
 * Built decoupled Employee and Department microservices
 * Established Service Discovery and API Routing
+### 🔹 Week 5: Frontend Engineering
+**Technologies:** React.js, Angular (v20), TypeScript, RxJS, NgRx
+* Explored React JS lifecycle and state Hooks
+* Engineered an end-to-end Angular Student Course Portal
+* Integrated Reactive Forms, HTTP Interceptors, and NgRx
 
 ---
 
