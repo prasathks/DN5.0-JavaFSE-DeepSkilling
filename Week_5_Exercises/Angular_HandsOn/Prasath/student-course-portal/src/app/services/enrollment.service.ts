@@ -1,0 +1,12 @@
+import { Injectable } from '@angular/core';
+import { CourseService } from './course.service';
+
+@Injectable({ providedIn: 'root' })
+export class EnrollmentService {
+    private enrolledCourseIds: number[] = [];
+    constructor(private courseService: CourseService) {}
+    
+    enroll(courseId: number) { this.enrolledCourseIds.push(courseId); }
+    unenroll(courseId: number) { this.enrolledCourseIds = this.enrolledCourseIds.filter(id => id !== courseId); }
+    isEnrolled(courseId: number): boolean { return this.enrolledCourseIds.includes(courseId); }
+}

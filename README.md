@@ -20,6 +20,10 @@ The repository is organized by weeks and modules covering the following topics:
 *   **Week 4**: 
     *   Module 7: Microservices (Eureka Server, API Gateway, Service Communication)
     *   Module 8: Code Quality (SonarQube)
+*   **Week 5**: 
+    *   Module 9: React
+    *   Module 10: GIT
+    *   Module 11: Angular
 
 ## Technologies Used
 *   Java
@@ -27,3 +31,5 @@ The repository is organized by weeks and modules covering the following topics:
 *   Spring Boot / Spring Data JPA
 *   Maven
 *   Microservices Architecture
+*   React & Angular
+*   GIT
