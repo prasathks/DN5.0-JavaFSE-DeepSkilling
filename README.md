@@ -33,6 +33,9 @@ This repository serves as a structured portfolio for the Cognizant Digital Nurtu
 * Explored React JS lifecycle and state Hooks
 * Engineered an end-to-end Angular Student Course Portal
 * Integrated Reactive Forms, HTTP Interceptors, and NgRx
+### 🔹 Week 6: Version Control
+**Technologies:** Advanced Git
+* Mastered Git Branching, Merge Conflicts, Rebasing, and Cherry-picking workflows
 
 ---
 
